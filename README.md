@@ -1,0 +1,2 @@
+# SajidTestCoin
+Launching ICO
